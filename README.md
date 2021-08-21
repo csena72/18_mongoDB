@@ -1,4 +1,4 @@
-# Desafío: SQLite3
+# Desafío: MongoDB
 
 ### Consigna:  En base al enunciado para trabajar con un motor SQL, realizar las adaptaciones para trabajar sobre un servidor de base de datos MongoDB. Utilizar el cliente CLI Mongo shell.
 
